@@ -15,9 +15,40 @@
 ---
 [![](https://komarev.com/ghpvc/?username=fathiasafio&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-<!--
+###
+
+<div data-importer="techs" align="center">
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+</div>
+
+###
+
+<div data-importer="image" align="right">
+  <img data-importer="image" height="200" src="https://inclined-moccasin-zjsd3hao.edgeone.dev/IMG-20260111-WA0000.jpg"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza /maurodesouza /pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza /maurodesouza /pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza /maurodesouza /pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="stats" align="center">
+</div>
+
+###-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- 
 **fathiasafio/fathiasafio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
