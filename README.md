@@ -26,27 +26,11 @@
 
 
 
-###
+<div align="center">
 
-<div data-importer="techs" align="center">
+<img src="https://raw.githubusercontent.com/fathiasafio/fathiasafio/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
-
-###
-
-<div data-importer="socials" align="center">
-</div>
- <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza /maurodesouza /pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza /maurodesouza /pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza /maurodesouza /pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="stats" align="center">
-</div>
-
-###--  
 
 <!-- 
 **fathiasafio/fathiasafio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
