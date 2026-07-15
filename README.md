@@ -15,7 +15,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=fathiasafio&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+
 
 ###
 
@@ -46,7 +46,7 @@
 <div data-importer="stats" align="center">
 </div>
 
-###-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###--  
 
 <!-- 
 **fathiasafio/fathiasafio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
