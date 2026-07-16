@@ -1,4 +1,4 @@
-(![MasterHead](https://thumbs.dreamstime.com/b/adorned-stickers-including-one-reads-muslim-girls-animated-illustration-young-woman-wearing-hijab-glasses-438312578.jpg
+(![MasterHead](https://www.pinterest.com/ideas/coding-gif-banner/929630361081/
 )
 
 <h1 align="center">Hi 👋, I'm Fathia Safio</h1>
