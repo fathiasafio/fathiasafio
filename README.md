@@ -1,5 +1,4 @@
-(![MasterHead](https://www.pinterest.com/ideas/coding-gif-banner/929630361081/
-)
+(![MasterHead](https://www.pinterest.com/ideas/coding-gif-banner/929630361081/)
 
 <h1 align="center">Hi 👋, I'm Fathia Safio</h1>
 <h3 align="center">
