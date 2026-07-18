@@ -203,12 +203,14 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 </table>
 
 ---
-<div>
-<!-- Trophies -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=fathiasafio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=fathiasafio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=fathiasafio&theme=dark&hide_border=false)<br/>
+## 🏆 GitHub Trophies
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fathiasafio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/><br/>
-</div>
+
+![](https://github-profile-trophy.vercel.app/?username=fathiasafio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathiasafio&theme=react-dark&bg_color=0d1117&color=08f7fe&line=ff2e63&point=ffffff&area=true&hide_border=true"/>
 </p>
