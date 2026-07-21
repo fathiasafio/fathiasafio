@@ -1,7 +1,7 @@
  <p align="center">
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 </p>
-<h1 align="center">Hi 👋, I'm Fathia Safio</h1>
+<h1 align="center">Hi 👋, I'm Fathia omar</h1>
 
 <h3 align="center">
 Blockchain Developer • Smart Contract Engineer • Software Developer
